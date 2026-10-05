@@ -1,0 +1,6 @@
+{
+  "name": "LabSync - Lab Task & Media Prep Manager",
+  "description": "Collaborative lab task dashboard for media, solutions, and consumables with priority tracking, completion sign-off, admin templates, and fair distribution archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
